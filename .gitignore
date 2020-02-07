@@ -1,0 +1,11 @@
+node_modules
+dist
+
+# Test coverage directory 
+coverage
+
+# macOS stores custom attributes of its containing folder
+**/.DS_Store
+
+.env
+.git-credentials
